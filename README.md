@@ -10,7 +10,7 @@ A simple CRUD (Create, Read, Update, Delete) application built with Django. This
 - View existing records
 - Update records
 - Delete records
-
+## Database: MySQL
 ---
 
 ## Installation and Setup
@@ -39,6 +39,3 @@ Install the required packages using the requirements.txt file:
 - python manage.py runserver
 - Access the Application
 Open your browser and go to http://127.0.0.1:8000/ to add an user and visit http://127.0.0.1:8000/view to view the added data.
-
-
-

@@ -11,7 +11,7 @@ A simple CRUD (Create, Read, Update, Delete) application built with Django. This
 - Update records
 - Delete records
 ## Database: MySQL
----
+
 
 ## Installation and Setup
 
